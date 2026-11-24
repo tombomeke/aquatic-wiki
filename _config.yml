@@ -1,0 +1,10 @@
+title: Aquatic SMP Wiki
+description: Sail. Claim. Conquer. The player guide to the Endless Sea.
+theme: jekyll-theme-cayman
+# README.md is the home page; links between the .md pages become links between the web pages.
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+relative_links:
+  enabled: true
+  collections: false
